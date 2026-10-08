@@ -1,0 +1,6 @@
+{
+  "name": "SPAT Quebra-Cabeça",
+  "description": "SPAT Quebra-Cabeça - Investigando para um ambiente mais seguro. Campanha de Segurança do Trabalho do Senac Vila Prudente, Turma M02.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
